@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'rvm-capistrano',    '~> 1.2.5'
 
   # dependencies for passenger on Uberspace
-  gem.add_dependency 'passenger',         '~> 3.0.15'
+  gem.add_dependency 'passenger',         '~> 4.0'
   gem.add_dependency 'rack',              '~> 1.4'
   gem.add_dependency 'daemon_controller', '~> 1.0.0'
 
